@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\ConsoleApplication9\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+\\mac\home\documents\visual studio 2015\Projects\ConsoleApplication9\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+\\mac\home\documents\visual studio 2015\Projects\ConsoleApplication9\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\ConsoleApplication9\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+\\mac\home\documents\visual studio 2015\Projects\ConsoleApplication9\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

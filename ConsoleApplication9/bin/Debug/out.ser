@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Journal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <results>
+    <PairOfStringDouble>
+      <item1>a</item1>
+      <item2>3</item2>
+    </PairOfStringDouble>
+    <PairOfStringDouble>
+      <item1>b</item1>
+      <item2>4</item2>
+    </PairOfStringDouble>
+    <PairOfStringDouble>
+      <item1>c</item1>
+      <item2>6</item2>
+    </PairOfStringDouble>
+    <PairOfStringDouble>
+      <item1>d</item1>
+      <item2>3.5</item2>
+    </PairOfStringDouble>
+    <PairOfStringDouble>
+      <item1>e</item1>
+      <item2>6</item2>
+    </PairOfStringDouble>
+    <PairOfStringDouble>
+      <item1>f</item1>
+      <item2>6.75</item2>
+    </PairOfStringDouble>
+  </results>
+</Journal>
